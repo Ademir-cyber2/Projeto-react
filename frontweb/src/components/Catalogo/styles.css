@@ -1,0 +1,43 @@
+.card-principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.main {
+    margin-top: 6%;
+    border: 1px solid #00285F;
+    width: 100%;
+    background-color: #EDEDED;
+}
+
+.home-image img {
+    width: 100%;
+    height: auto;
+}
+
+.texto {
+    margin: 1%;
+    font-size: 65%;
+    text-align: center;
+    color: #585858;
+
+}
+
+.texto h3 {
+    text-align: center;
+    font-size: 180%;
+}
+
+.btn-compra {
+    width: 80%;
+    height: auto;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    background-color: #00285F;
+    color: #FFF;
+    font-size: 60%;
+    border-radius: 7%;
+    ;
+}

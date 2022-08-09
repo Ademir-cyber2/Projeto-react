@@ -1,11 +1,10 @@
 
-
-import Navbar from 'components/Navbar';
+import Routes from 'Routes';
 import './App.css';
 
 function App() {
   return (
-    <Navbar />
+    <Routes />
   );
 }
 

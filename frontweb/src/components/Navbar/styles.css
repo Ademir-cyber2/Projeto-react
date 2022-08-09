@@ -1,20 +1,30 @@
+.principal {
+    width: 100%;
+    padding: 2%;
+}
+
 .nav-logo {
     color: #000;
     text-decoration: none;
     color: unset;
 }
 
-.nav-titulo {
-    color: #000;
-}
-
-.nav-link {
-    color: #000;
+.menu {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .main-menu {
     display: flex;
     font-size: 18px;
-    width: 300px;
+    width: 30%;
     justify-content: space-between;
+}
+
+.active {
+    text-decoration: none;
+}
+
+#btn-catalogo {
+    text-decoration: none;
 }
